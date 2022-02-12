@@ -23,7 +23,7 @@ UTCA API token summary
 This API token will affect the below accounts and zones, along with their respective permissions
 
 
-Paypal@gazeta.store - Load Balancing: Monitors And Pools:Edit
+mapsler@ukr.net - Load Balancing: Monitors And Pools:Edit
 All zones - Access: Apps and Policies:Edit
 Client IP Address Filtering
 
